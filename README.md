@@ -1,7 +1,7 @@
 # progressiveBudget
 
-https://progressivebudget-hw.herokuapp.com/
-![](https://github.com/SApuzzo27/progressiveBudget/blob/main/images%2FBudget.jpeg)
+https://co-progressive-budget.herokuapp.com/
+https://github.com/Doseofcarlos/working-progressive-budget
 
 
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
